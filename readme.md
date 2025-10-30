@@ -1,6 +1,6 @@
   # 👋 Hi, I'm Sergio Andrés López Navarro
 
-I am an Electronics Engineer and Project Management Specialist with over 16 years of experience in the tech sector. My main focus is developing innovative solutions that apply data science, automation, and AI to optimize processes and products and support strategic decisions.
+I am an Electronics Engineer and Project Management Specialist with over 18 years of experience in the tech sector. My main focus is developing innovative solutions that apply data science, automation, and AI to optimize processes and products and support strategic decisions.
  
 💡 I'm driven by the possibilities of data and AI and excited to keep exploring their impact in the economic sector, particularly in finance and predictive analytics.
 
