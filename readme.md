@@ -8,11 +8,11 @@ I am an Electronics Engineer and Project Management Specialist with over 18 year
 
 ## 🚀 Skills
 
-- **Programming:** Python, PHP, JavaScript, HTML5, CSS3
-- **Data & AI:** Data Science, Machine Learning, Prompt Engineering, Power BI, Google Cloud Platform (GCP)
-- **Frameworks & Tools:** LangChain, N8N, FastAPI, Flask, Docker
-- **Telecom:** Mobile network design, optimization, data-driven decision tools
-- **Project Management:** Agile, Scrum, Project leadership
+- **Programming:** Python.
+- **Data & AI:** Data Science, Machine Learning, Prompt Engineering, Power BI, GCP.
+- **Frameworks & Tools:** LangChain, N8N, FastAPI, Docker.
+- **Telecom:** Mobile network design, optimization, data-driven decision tools.
+- **Project Management:** Scrum, Project leadership.
 
 ---
 
