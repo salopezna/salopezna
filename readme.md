@@ -2,8 +2,7 @@
 
 I am an Electronics Engineer and Project Management Specialist with over 16 years of experience in the telecommunications sector. My main focus is developing innovative solutions that apply data science, automation, and AI to optimize networks and support strategic decisions. 
 
-💡 I’m driven by the possibilities of data and AI and excited to keep exploring their impact in the telecom sector, as well as in finance, automation, and predictive analytics.
-
+💡 I'm driven by the possibilities of data and AI and excited to keep exploring their impact in the economic sector, particularly in finance, automation, and predictive analytics.
 ---
 
 ## 🚀 Skills
